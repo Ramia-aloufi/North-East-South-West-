@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1197C7C027637C0900E7D0B0 /* AViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1197C7BF27637C0900E7D0B0 /* AViewController.swift */; };
 		11E57C102762A80B0017BFD5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11E57C0F2762A80B0017BFD5 /* AppDelegate.swift */; };
 		11E57C122762A80B0017BFD5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11E57C112762A80B0017BFD5 /* SceneDelegate.swift */; };
 		11E57C142762A80B0017BFD5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11E57C132762A80B0017BFD5 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1197C7BF27637C0900E7D0B0 /* AViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AViewController.swift; sourceTree = "<group>"; };
 		11E57C0C2762A80A0017BFD5 /* North East South West North East South West North East South West.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "North East South West North East South West North East South West.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		11E57C0F2762A80B0017BFD5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		11E57C112762A80B0017BFD5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				11E57C182762A8160017BFD5 /* Assets.xcassets */,
 				11E57C1A2762A8160017BFD5 /* LaunchScreen.storyboard */,
 				11E57C1D2762A8160017BFD5 /* Info.plist */,
+				1197C7BF27637C0900E7D0B0 /* AViewController.swift */,
 			);
 			path = "North East South West North East South West North East South West";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1197C7C027637C0900E7D0B0 /* AViewController.swift in Sources */,
 				11E57C142762A80B0017BFD5 /* ViewController.swift in Sources */,
 				11E57C102762A80B0017BFD5 /* AppDelegate.swift in Sources */,
 				11E57C122762A80B0017BFD5 /* SceneDelegate.swift in Sources */,
